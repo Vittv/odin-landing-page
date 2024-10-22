@@ -175,6 +175,7 @@ a {
     height: 150px;
     gap: 100px;
     padding: 40px;
+    min-width: 600px;
 }
 
 .action-title {
@@ -194,7 +195,8 @@ a {
     background-color: #3882F6;
     padding: 10px 40px;
     font-size: 18px;
-    color: #F9FAF8
+    color: #F9FAF8;
+    cursor: pointer;
 }
 
 /* footer */
