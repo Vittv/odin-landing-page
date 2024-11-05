@@ -1,4 +1,5 @@
-# The Odin Project - Foundations - #2 Project: Odin Landing Page
+# The Odin Project - Foundations
+## #2 Project: Landing Page
 
 In this project we are making a landing page from scratch. Trying to make it as similar to the reference as possible (HTML and CSS only). Reference can be found in img folder.
 
